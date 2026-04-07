@@ -1,4 +1,4 @@
-# Rolez - SaaS para Lanchonetes
+# Rolez - Sistema SaaS para Gestão de Lanchonetes
 
 Sistema em desenvolvimento para gestão de lanchonetes e pequenos restaurantes, com foco em automação de pedidos, controle de mesas e atendimento inteligente.
 
